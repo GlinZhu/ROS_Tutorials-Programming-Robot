@@ -1,7 +1,7 @@
 # ROS_Tutorials-Programming-Robot
 Those tutorials are from course - Programming for Robotics - ROS
 
-## Tutorils Structures
+## Tutorial Structures
 ### Course 1
 - ROS architecture & philosophy
 - ROS master, nodes, and topics
